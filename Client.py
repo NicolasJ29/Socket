@@ -1,7 +1,7 @@
 import socket
 UDP_IP= "10.160.108.101"
 UDP_PORT= 5005
-data="cinema"
+data="4158522552"
 decimal=0
 idx=1
 sock = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
